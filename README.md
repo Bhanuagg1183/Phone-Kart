@@ -1,6 +1,24 @@
 # Phone-Kart
 
-Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Machine Learning, Linear Regression, Random Forest, Gradient Boosting
+### Technologies: 
+
+Python
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Machine Learning
+
+Linear Regression
+
+Random Forest
+
+Gradient Boosting
 
 
 # Objective
